@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+}
+
+group 'ru.spb.hse.andreevn'
+version '1.0-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+test {
+    useJUnitPlatform()
+}
+
+dependencies {
+    testCompile 'org.junit.jupiter:junit-jupiter-api:5+'
+    testRuntime 'org.junit.jupiter:junit-jupiter-engine:5+'
+    compile "org.seleniumhq.selenium:selenium-java:3+"
+}

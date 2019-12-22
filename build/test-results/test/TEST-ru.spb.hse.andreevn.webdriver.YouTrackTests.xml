@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.spb.hse.andreevn.webdriver.YouTrackTests" tests="14" skipped="0" failures="0" errors="0" timestamp="2019-12-22T12:22:17" hostname="DESKTOP-GS8H81T" time="134.26">
+  <properties/>
+  <testcase name="testAlphabetic()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="10.457"/>
+  <testcase name="testStrangeSymbols()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="9.597"/>
+  <testcase name="testEmpty()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="9.148"/>
+  <testcase name="testMixed()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="9.473"/>
+  <testcase name="testDash()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="9.564"/>
+  <testcase name="testDots()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="9.42"/>
+  <testcase name="testSecondRegistration()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="10.906"/>
+  <testcase name="testWhitespace()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="9.234"/>
+  <testcase name="testDotWithName()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="9.423"/>
+  <testcase name="testUnderline()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="9.532"/>
+  <testcase name="testCyrillitsa()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="9.422"/>
+  <testcase name="testForbiddenSymbols()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="9.276"/>
+  <testcase name="testAlphaNumeric()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="9.375"/>
+  <testcase name="testNumeric()" classname="ru.spb.hse.andreevn.webdriver.YouTrackTests" time="9.423"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 33493
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017341.115][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:22:23 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 28060
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017350.880][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:22:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 31460
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017360.470][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:22:42 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 16735
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017369.625][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:22:51 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 1913
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017379.109][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:23:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 6880
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017388.668][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:23:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 29789
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017398.081][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:23:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 2859
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017408.998][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:23:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 6643
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017418.224][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:23:40 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 36924
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017427.662][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:23:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 26349
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017437.156][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:23:59 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 45581
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017446.601][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:24:08 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 40728
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017455.873][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:24:17 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Starting ChromeDriver 79.0.3945.36 (3582db32b33893869b8c1339e8f4d9ed1816f143-refs/branch-heads/3945@{#614}) on port 4541
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1577017465.279][WARNING]: Timed out connecting to Chrome, retrying...
+дек 22, 2019 3:24:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
